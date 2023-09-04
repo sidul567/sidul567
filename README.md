@@ -50,7 +50,6 @@ Here are some of the projects I've worked on:
   <br><br>
   <strong>Technology Used:</strong> React.js, Redux(state management), Node.js, Express.js, MongoDB, JWT(User Authentication), RazorPay(Payment Gateway).
 <br/>
-<br/>
 
 - [Mern Hotel Booking](https://github.com/sidul567/mern-ecommerce) 
   - Users can make advanced search(based on price, people, date).
