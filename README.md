@@ -8,9 +8,8 @@
   <a href="https://github.com/sidul567"><img src="https://img.shields.io/badge/Github-010101?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
 </p>
 
----
-
 ### About Me
+---
 
 Innovative and highly skilled MERN Stack Developer with 3 years of experience in building and deploying cutting-edge web applications. Proficient in the entire MERN technology stack, I have a strong passion for creating intuitive user interfaces and optimizing back-end functionalities.
 
