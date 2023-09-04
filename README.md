@@ -12,7 +12,6 @@
 Innovative and highly skilled MERN Stack Developer with 3 years of experience in building and deploying cutting-edge web applications. Proficient in the entire MERN technology stack, I have a strong passion for creating intuitive user interfaces and optimizing back-end functionalities.
 
 - 💡 Skilled in React.js, Node.js, and MongoDB
-
 - 🌱 Learning and exploring new technologies
 - 💬 Ask me about web development, MERN stack, or anything tech-related
 
