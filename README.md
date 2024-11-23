@@ -59,9 +59,9 @@ Here are some of the projects I've worked on:
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidul567&show_icons=true&theme=synthwave&hide=stars,prs,issues,contribs)
+![GitHub Stats](https://github-readme-stats-sidul567.vercel.app/api?username=sidul567&show_icons=true&theme=synthwave&hide=stars,prs,issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidul567&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sidul567.vercel.app/api/top-langs/?username=sidul567&layout=compact&theme=dark)
 
 
 ## Get in Touch
