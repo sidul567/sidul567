@@ -59,7 +59,7 @@ Here are some of the projects I've worked on:
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sidul567.vercel.app/api?username=sidul567&show_icons=true&theme=synthwave&hide=stars,prs)
+![Sidul_GitHub Stats](https://github-readme-stats-sidul567.vercel.app/api?username=sidul567&show_icons=true&theme=gruvbox&hide=stars,issues)
 
 ![Top Langs](https://github-readme-stats-sidul567.vercel.app/api/top-langs/?username=sidul567&layout=compact&theme=dark)
 
